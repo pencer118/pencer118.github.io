@@ -1,14 +1,17 @@
-/---
-date: 2018-11-22 12:26:40
+---
+date: 2021-06-08
 layout: post
 title: 몽고디비 설치 및 설정
-<!--image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg-->
+  
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+category: DB
 tags:
   - 몽고
   - 디비
-author: thiagorossener
+  - mongo
+  - db
+author: SUB
 paginate: true
 ---
 
@@ -58,14 +61,4 @@ $ /usr/local/src/mongodb-linux-x86_64-rhel70-4.0.18/bin/mongo
 >편리하게 사용하기 위해 환경 변수를 등록합니다.
 
 $ vi /root/bash_profile
-
-
-
-
-
-
-
-
-
-
 
