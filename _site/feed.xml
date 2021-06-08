@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekflix | A blog theme for Jekyll</title>
+    <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 08 Jun 2021 23:36:56 +0900</pubDate>
+    <lastBuildDate>Tue, 08 Jun 2021 23:36:56 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>지킬테마 'gulp' 로컬실행</title>
+        <description>&lt;p id=&quot;지킬테마-로컬-실행&quot;&gt;##지킬테마 로컬 실행&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1.Access the local project
+:테마 폴더 경로로 이동&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;$ cd User/path/IdeaProject/folder-name&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Install npm packages
+:npm 패키지 인스톨&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;$ npm install&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Install Ruby dependencies
+:루비 번들 인스톨&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;$ bundle install&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Build Jekyll
+:지킬 빌드&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;$ bundle exec jekyll build&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Then run Gulp
+:Gulp 실행&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ gulp
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;####Gulp 설명 - 찾아 쓰기&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Jun 2021 00:00:00 +0900</pubDate>
+        <link>/jekyll-local-start/</link>
+        <guid isPermaLink="true">/jekyll-local-start/</guid>
+        
+        <category>gulp</category>
+        
+        <category>blog</category>
+        
+        <category>setup</category>
+      </item>
+    
+      <item>
+        <title>몽고디비 설치 및 설정</title>
+        <description>&lt;h2 id=&quot;1-centos에-설치&quot;&gt;1. centos에 설치&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;공식 배포 사이트에서 OS 별로 받을 수 있는 버전을 제공하고 있습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;https://fastdl.mongodb.org&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;설치할 버전을 선택한 후 wget 명령어로 다운 받습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;$ wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-4.0.18.tgz&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;tar 명령어로 압축을 해제합니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;$ tar xvfz mongodb-linux-x86_64-rhel70-4.0.18.tgz&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;mongodb에 적용할 설정파일을 미리 작성합니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;$ vi /etc/mongodb.conf&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// 설정 이미지 가져오기&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;~|=|&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a...</description>
+        <pubDate>Tue, 08 Jun 2021 00:00:00 +0900</pubDate>
+        <link>/mongo-setup-for-mac/</link>
+        <guid isPermaLink="true">/mongo-setup-for-mac/</guid>
+        
+        <category>몽고</category>
+        
+        <category>디비</category>
+        
+        <category>mongo</category>
+        
+        <category>db</category>
+        
+        <category>DB</category>
+      </item>
+    
+      <item>
+        <title>Welcome to the Hello World!!</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Fri, 17 May 2019 08:48:05 +0900</pubDate>
+        <link>/WELCOME-MY-BLOG/</link>
+        <guid isPermaLink="true">/WELCOME-MY-BLOG/</guid>
+        
+        <category>welcome</category>
+        
+        <category>blog</category>
+        
+        <category>blog</category>
+      </item>
+    
+  </channel>
+</rss>
