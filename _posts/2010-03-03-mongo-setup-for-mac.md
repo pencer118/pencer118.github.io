@@ -5,7 +5,7 @@ title: 몽고디비 설치 및 설정
   
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: DB
+category: Mongo
 tags:
   - 몽고
   - 디비

@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="888e586c-3030-43e7-a67c-a7d687b881ba" name="Default Changelist" comment="0608 커밋" />
+    <list default="true" id="888e586c-3030-43e7-a67c-a7d687b881ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2010-01-01-WELCOME-MY-BLOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2010-01-01-WELCOME-MY-BLOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2010-03-03-mongo-setup-for-mac.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2010-03-03-mongo-setup-for-mac.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +181,8 @@
       <workItem from="1621420466695" duration="9326000" />
       <workItem from="1621585771306" duration="170000" />
       <workItem from="1621585958694" duration="9468000" />
-      <workItem from="1623079665565" duration="7825000" />
+      <workItem from="1623079665565" duration="8043000" />
+      <workItem from="1623163326785" duration="1309000" />
     </task>
     <task id="LOCAL-00001" summary="[0514] 깃블로그 테마 최초 배포">
       <created>1620958927614</created>
@@ -221,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623161443874</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0608 커밋2">
+      <created>1623163234352</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623163234352</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +252,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -249,6 +286,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -257,6 +299,7 @@
     <MESSAGE value="[0514] Test" />
     <MESSAGE value="몽고 설정및 설치" />
     <MESSAGE value="0608 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="0608 커밋" />
+    <MESSAGE value="0608 커밋2" />
+    <option name="LAST_COMMIT_MESSAGE" value="0608 커밋2" />
   </component>
 </project>
