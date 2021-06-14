@@ -8,8 +8,40 @@
   <component name="ChangeListManager">
     <list default="true" id="888e586c-3030-43e7-a67c-a7d687b881ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2010-01-01-WELCOME-MY-BLOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2010-01-01-WELCOME-MY-BLOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-03-03-mongo-setup-for-mac.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2010-03-03-mongo-setup-for-mac.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/WELCOME-MY-BLOG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/WELCOME-MY-BLOG/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/diet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/diet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/life/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/life/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/music/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/tips/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/tips/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/travel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/tutorial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/category/work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/work/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll-local-start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll-local-start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mongo-setup-for-mac/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/mongo-setup-for-mac/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2011-04-04-the-quick-brown-fox-jumps-over-a-lazy-dog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2011-04-04-the-quick-brown-fox-jumps-over-a-lazy-dog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2011-05-05-a-wonderful-serenity-has-taken-possession-of-my-entire-soul/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2011-05-05-a-wonderful-serenity-has-taken-possession-of-my-entire-soul/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2011-06-06-candy-candies-candy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2011-06-06-candy-candies-candy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2012-07-07-trust-me-it-will-work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2012-07-07-trust-me-it-will-work/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2012-08-08-how-to-turn-your-dog-into-a-jedi-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2012-08-08-how-to-turn-your-dog-into-a-jedi-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2013-10-10-let-flexbox-work-for-you-or-perish/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2013-10-10-let-flexbox-work-for-you-or-perish/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2013-11-11-a-star-has-fallen-from-the-sky-and-the-cat-ate-it/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2013-11-11-a-star-has-fallen-from-the-sky-and-the-cat-ate-it/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2013-12-12-smoke-alert/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2013-12-12-smoke-alert/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2014-01-01-do-you-believe-that-a-spider-can-dance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2014-01-01-do-you-believe-that-a-spider-can-dance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2014-02-02-a-cook-cries-in-the-rain-at-night/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2014-02-02-a-cook-cries-in-the-rain-at-night/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2014-03-03-grab-your-band-and-get-out/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2014-03-03-grab-your-band-and-get-out/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/old/2015-09-06-passion-is-dangerous-go-for-it/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/old/2015-09-06-passion-is-dangerous-go-for-it/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +214,7 @@
       <workItem from="1621585771306" duration="170000" />
       <workItem from="1621585958694" duration="9468000" />
       <workItem from="1623079665565" duration="8043000" />
-      <workItem from="1623163326785" duration="1309000" />
+      <workItem from="1623163326785" duration="8044000" />
     </task>
     <task id="LOCAL-00001" summary="[0514] 깃블로그 테마 최초 배포">
       <created>1620958927614</created>
@@ -233,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623163234352</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[0609] 게시물수정">
+      <created>1623217320808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623217320809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +316,31 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -289,6 +353,7 @@
     <option name="OPEN_TABS">
       <set>
         <option value="1" />
+        <option value="2" />
       </set>
     </option>
   </component>
@@ -300,6 +365,7 @@
     <MESSAGE value="몽고 설정및 설치" />
     <MESSAGE value="0608 커밋" />
     <MESSAGE value="0608 커밋2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0608 커밋2" />
+    <MESSAGE value="[0609] 게시물수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[0609] 게시물수정" />
   </component>
 </project>
